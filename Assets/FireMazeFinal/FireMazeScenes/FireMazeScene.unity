@@ -34305,7 +34305,7 @@ MonoBehaviour:
         m_CallState: 2
   key: {fileID: 958137858}
   keyImage: {fileID: 683323619}
-  player: {fileID: 1297042426}
+  player: {fileID: 1496736543}
   keyPos: {fileID: 958137861}
 --- !u!1 &960454000 stripped
 GameObject:
