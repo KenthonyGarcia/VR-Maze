@@ -17,7 +17,7 @@ Whenever prompted to enable OculusXR, press `Cancel`.
 
 ## Run
 
-If using an Oculus headset, connect the Oculus to the computer and press the run button. If using mouse and keyboard, enable the **XR Device Simulator** in the Hiearchy by clicking the checkbox in the Inspector before clicking the run button.
+If using an Oculus headset, connect the Oculus to the computer and press the run button. If using mouse and keyboard, enable the **XR Device Simulator** in the Hiearchy by clicking the checkbox in the Inspector before clicking the run button. The device simulator is by default inactive in all of the mazes. For the Ice maze, it does not exist in the hiearchy so it must be added.
 
 <span><img src="https://i.ibb.co/B3psSq6/Hiearchy.png" width="350" height="150" />
 <img src="https://i.ibb.co/6n11My2/Inspector.png" width="350" height="150" /></span>
